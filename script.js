@@ -87,7 +87,3 @@ const renderNotFound = () => {
     pokeId.textContent = '';
 }
 
-
-
-
-
